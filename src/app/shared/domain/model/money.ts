@@ -8,7 +8,7 @@ export class Money {
   }
 
   /**
-   * 
+   *
    *
    * toString(): string {
    *     return `${this.currency} ${this.amount.toFixed(2)}`;
